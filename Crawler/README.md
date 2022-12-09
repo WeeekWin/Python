@@ -15,3 +15,7 @@
 5. 想搜寻特定网站里面的内容时，使用【site】
 6. 想寻找和某个特定网站相似的网站时，使用【related】
 7. 搜寻某个国家／地区的关键词内容，使用【location】
+
+#### Plugins
+1. [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo?hl=zh-CN)
+2. [Web Scraper](https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=zh-CN)
